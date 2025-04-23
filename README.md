@@ -50,6 +50,7 @@
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+## Resume
+<a href="Emmanuel_Resume.pdf">Resume</a>
+<a href="https://google.com">Detection Lab</a>
+
