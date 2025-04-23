@@ -17,8 +17,7 @@
 | Microsoft Power Bi                   |
 | Scripting and Automation for Threat Mitigation |
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Projects
 
