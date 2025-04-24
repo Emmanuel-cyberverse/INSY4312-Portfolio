@@ -25,6 +25,7 @@
 |-----------------------------------------------|
 | <a href="2. Conducting a Security audit.pdf">Conducting a Security audit</a> |
 |<a href=" 3. Analyzing network structure and security..pdf">Analyzing network structure and security</a> |
+|<a href="5. Apply filters to SQL queries.pdf">Apply filters to SQL queries.pdf</a>    |
 | <a href="6. Identify vulnerabilities for small business.pdf">Identify vulnerabilities for small business</a>      |
 | <a href="7. Documenting incidents with an incident handler's journal.pdf">Documenting incidents with an incident handler's journal</a>     |
 | <a href="8. Importing and parasing a text file in security related scenario.pdf">Importing and parasing a text file in security related scenario</a>                  |
